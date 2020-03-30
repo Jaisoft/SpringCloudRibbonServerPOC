@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringCloudZuulTestingPocApplication
+class SpringCloudZuulServerPocApplication
 
 fun main(args: Array<String>) {
 	runApplication<SpringCloudZuulTestingPocApplication>(*args)
